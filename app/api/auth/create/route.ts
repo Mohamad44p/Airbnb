@@ -32,5 +32,5 @@ export async function GET() {
     });
   }
 
-  return NextResponse.redirect("https://airbnb-yt-peach.vercel.app");
+  return NextResponse.redirect("https://airbnb-kappa-neon.vercel.app");
 }
